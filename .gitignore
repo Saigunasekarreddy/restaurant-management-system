@@ -1,0 +1,9 @@
+# Ignore config files
+php.ini
+
+# Ignore database credentials (optional)
+.env
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
